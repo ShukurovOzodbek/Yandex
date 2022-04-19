@@ -1,4 +1,4 @@
-/// Creating Element
+// Creating Element
 // Array to Elemnts
 
 let arr = [
