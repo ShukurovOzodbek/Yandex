@@ -12,9 +12,123 @@ let arr = [
         chastota: '144 Гц; отклик: 4 мс',
         interfeys: 'вход HDMI x 2, вход DisplayPort x 2',
         price: '84 333 Р',
+        amount: Math.floor(Math.random() * 15),
+        src: 'https://avatars.mds.yandex.net/get-mpic/4428744/img_id6127648283417084115.jpeg/orig',
+    },{
+        id: Math.random(),
+        name: '48.9" Монитор Samsung C49HG90DMI, 3840x1080, 144 Гц, *VA, черный',
+        otziv: 4.2,
+        how: 32,
+        screen: '3440x1440 (21:9), изогнутый',
+        typeOfMatrix: '*VA',
+        chastota: '144 Гц; отклик: 4 мс',
+        interfeys: 'вход HDMI x 2, вход DisplayPort x 2',
+        price: '84 333 Р',
+        amount: Math.floor(Math.random() * 15),
+        src: 'https://avatars.mds.yandex.net/get-mpic/4428744/img_id6127648283417084115.jpeg/orig',
+    },{
+        id: Math.random(),
+        name: '48.9" Монитор Samsung C49HG90DMI, 3840x1080, 144 Гц, *VA, черный',
+        otziv: 4.2,
+        how: 32,
+        screen: '3440x1440 (21:9), изогнутый',
+        typeOfMatrix: '*VA',
+        chastota: '144 Гц; отклик: 4 мс',
+        interfeys: 'вход HDMI x 2, вход DisplayPort x 2',
+        price: '84 333 Р',
+        amount: Math.floor(Math.random() * 15),
+        src: 'https://avatars.mds.yandex.net/get-mpic/4428744/img_id6127648283417084115.jpeg/orig',
+    },{
+        id: Math.random(),
+        name: '48.9" Монитор Samsung C49HG90DMI, 3840x1080, 144 Гц, *VA, черный',
+        otziv: 4.2,
+        how: 32,
+        screen: '3440x1440 (21:9), изогнутый',
+        typeOfMatrix: '*VA',
+        chastota: '144 Гц; отклик: 4 мс',
+        interfeys: 'вход HDMI x 2, вход DisplayPort x 2',
+        price: '84 333 Р',
+        amount: 0,
         src: 'https://avatars.mds.yandex.net/get-mpic/4428744/img_id6127648283417084115.jpeg/orig',
     },
-    
+    {
+        id: Math.random(),
+        name: '48.9" Монитор Samsung C49HG90DMI, 3840x1080, 144 Гц, *VA, черный',
+        otziv: 4.2,
+        how: 32,
+        screen: '3440x1440 (21:9), изогнутый',
+        typeOfMatrix: '*VA',
+        chastota: '144 Гц; отклик: 4 мс',
+        interfeys: 'вход HDMI x 2, вход DisplayPort x 2',
+        price: '84 333 Р',
+        amount: Math.floor(Math.random() * 15),
+        src: 'https://avatars.mds.yandex.net/get-mpic/4428744/img_id6127648283417084115.jpeg/orig',
+    },
+    {
+        id: Math.random(),
+        name: '48.9" Монитор Samsung C49HG90DMI, 3840x1080, 144 Гц, *VA, черный',
+        otziv: 4.2,
+        how: 32,
+        screen: '3440x1440 (21:9), изогнутый',
+        typeOfMatrix: '*VA',
+        chastota: '144 Гц; отклик: 4 мс',
+        interfeys: 'вход HDMI x 2, вход DisplayPort x 2',
+        price: '84 333 Р',
+        amount: 0,
+        src: 'https://avatars.mds.yandex.net/get-mpic/4428744/img_id6127648283417084115.jpeg/orig',
+    },
+    {
+        id: Math.random(),
+        name: '48.9" Монитор Samsung C49HG90DMI, 3840x1080, 144 Гц, *VA, черный',
+        otziv: 4.2,
+        how: 32,
+        screen: '3440x1440 (21:9), изогнутый',
+        typeOfMatrix: '*VA',
+        chastota: '144 Гц; отклик: 4 мс',
+        interfeys: 'вход HDMI x 2, вход DisplayPort x 2',
+        price: '84 333 Р',
+        amount: Math.floor(Math.random() * 15),
+        src: 'https://avatars.mds.yandex.net/get-mpic/4428744/img_id6127648283417084115.jpeg/orig',
+    },
+    {
+        id: Math.random(),
+        name: '48.9" Монитор Samsung C49HG90DMI, 3840x1080, 144 Гц, *VA, черный',
+        otziv: 4.2,
+        how: 32,
+        screen: '3440x1440 (21:9), изогнутый',
+        typeOfMatrix: '*VA',
+        chastota: '144 Гц; отклик: 4 мс',
+        interfeys: 'вход HDMI x 2, вход DisplayPort x 2',
+        price: '84 333 Р',
+        amount: 0,
+        src: 'https://avatars.mds.yandex.net/get-mpic/4428744/img_id6127648283417084115.jpeg/orig',
+    },
+    {
+        id: Math.random(),
+        name: '48.9" Монитор Samsung C49HG90DMI, 3840x1080, 144 Гц, *VA, черный',
+        otziv: 4.2,
+        how: 32,
+        screen: '3440x1440 (21:9), изогнутый',
+        typeOfMatrix: '*VA',
+        chastota: '144 Гц; отклик: 4 мс',
+        interfeys: 'вход HDMI x 2, вход DisplayPort x 2',
+        price: '84 333 Р',
+        amount: Math.floor(Math.random() * 15),
+        src: 'https://avatars.mds.yandex.net/get-mpic/4428744/img_id6127648283417084115.jpeg/orig',
+    },
+    {
+        id: Math.random(),
+        name: '48.9" Монитор Samsung C49HG90DMI, 3840x1080, 144 Гц, *VA, черный',
+        otziv: 4.2,
+        how: 32,
+        screen: '3440x1440 (21:9), изогнутый',
+        typeOfMatrix: '*VA',
+        chastota: '144 Гц; отклик: 4 мс',
+        interfeys: 'вход HDMI x 2, вход DisplayPort x 2',
+        price: '84 333 Р',
+        amount: 0,
+        src: 'https://avatars.mds.yandex.net/get-mpic/4428744/img_id6127648283417084115.jpeg/orig',
+    }
 ]
 
 createFromArr(arr)
@@ -119,14 +233,21 @@ function createFromArr(arr){
         right_side.append(image2)
         
         display(main, image1, image2)
+
+        if(item.amount == 0) {
+            btn.style.background = 'red'
+            btn.style.color = 'white'
+            btn.innerHTML = 'Not left'
+            btn.style.cursor = 'inherit'
+        }
     }
     
 }
-function display(main2, image3, image4) {
-    main2.onmouseenter = () => {
-            image3.style.display = 'block'
-            image4.style.display = 'block'
-            main2.onmouseleave = () => {
+function display(mn, image3, image4) {
+    mn.onmouseenter = () => {
+        image3.style.display = 'block'
+        image4.style.display = 'block'
+            mn.onmouseleave = () => {
                 image3.style.display = 'none'
                 image4.style.display = 'none'        
             }
