@@ -1,4 +1,4 @@
-// Creating Element
+/// Creating Element
 // Array to Elemnts
 
 let arr = [
@@ -118,15 +118,18 @@ function createFromArr(arr){
         right_side.append(image1)
         right_side.append(image2)
         
-        
-        main.onmouseenter = () => {
-                image1.style.display = 'block'
-                image2.style.display = 'block'
-                main.onmouseleave = () => {
-                    image1.style.display = 'none'
-                    image2.style.display = 'none'        
-                }
-        }
+        display(main, image1, image2)
     }
-
+    
+}
+function display(main2, image3, image4) {
+    main2.onmouseenter = () => {
+            image3.style.display = 'block'
+            image4.style.display = 'block'
+            main2.onmouseleave = () => {
+                image3.style.display = 'none'
+                image4.style.display = 'none'        
+            }
+    }
+    
 }
